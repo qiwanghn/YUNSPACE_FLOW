@@ -1,0 +1,7 @@
+E:\case\RoadFlow\MyCache.InProc\bin\Debug\MyCache.InProc.dll
+E:\case\RoadFlow\MyCache.InProc\bin\Debug\MyCache.InProc.pdb
+E:\case\RoadFlow\MyCache.InProc\bin\Debug\MyCache.Interface.dll
+E:\case\RoadFlow\MyCache.InProc\bin\Debug\MyCache.Interface.pdb
+E:\case\RoadFlow\MyCache.InProc\obj\Debug\MyCache.InProc.csprojResolveAssemblyReference.cache
+E:\case\RoadFlow\MyCache.InProc\obj\Debug\MyCache.InProc.dll
+E:\case\RoadFlow\MyCache.InProc\obj\Debug\MyCache.InProc.pdb

@@ -1,0 +1,15 @@
+E:\case\RoadFlow\Data.Factory\bin\Debug\Data.Factory.dll
+E:\case\RoadFlow\Data.Factory\bin\Debug\Data.Factory.pdb
+E:\case\RoadFlow\Data.Factory\bin\Debug\Data.Interface.dll
+E:\case\RoadFlow\Data.Factory\bin\Debug\Data.MSSQL.dll
+E:\case\RoadFlow\Data.Factory\bin\Debug\Data.Model.dll
+E:\case\RoadFlow\Data.Factory\bin\Debug\Utility.dll
+E:\case\RoadFlow\Data.Factory\bin\Debug\LitJSON.dll
+E:\case\RoadFlow\Data.Factory\bin\Debug\Data.Interface.pdb
+E:\case\RoadFlow\Data.Factory\bin\Debug\Data.MSSQL.pdb
+E:\case\RoadFlow\Data.Factory\bin\Debug\Data.Model.pdb
+E:\case\RoadFlow\Data.Factory\bin\Debug\Utility.pdb
+E:\case\RoadFlow\Data.Factory\bin\Debug\LitJSON.pdb
+E:\case\RoadFlow\Data.Factory\obj\Debug\Data.Factory.csprojResolveAssemblyReference.cache
+E:\case\RoadFlow\Data.Factory\obj\Debug\Data.Factory.dll
+E:\case\RoadFlow\Data.Factory\obj\Debug\Data.Factory.pdb

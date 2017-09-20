@@ -1,0 +1,5 @@
+E:\case\RoadFlow\Data.Model\bin\Debug\Data.Model.dll
+E:\case\RoadFlow\Data.Model\bin\Debug\Data.Model.pdb
+E:\case\RoadFlow\Data.Model\obj\Debug\Data.Model.csprojResolveAssemblyReference.cache
+E:\case\RoadFlow\Data.Model\obj\Debug\Data.Model.dll
+E:\case\RoadFlow\Data.Model\obj\Debug\Data.Model.pdb

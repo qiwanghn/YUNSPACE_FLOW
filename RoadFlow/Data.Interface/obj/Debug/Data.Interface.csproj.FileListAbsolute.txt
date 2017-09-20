@@ -1,0 +1,7 @@
+E:\case\RoadFlow\Data.Interface\bin\Debug\Data.Interface.dll
+E:\case\RoadFlow\Data.Interface\bin\Debug\Data.Interface.pdb
+E:\case\RoadFlow\Data.Interface\bin\Debug\Data.Model.dll
+E:\case\RoadFlow\Data.Interface\bin\Debug\Data.Model.pdb
+E:\case\RoadFlow\Data.Interface\obj\Debug\Data.Interface.csprojResolveAssemblyReference.cache
+E:\case\RoadFlow\Data.Interface\obj\Debug\Data.Interface.dll
+E:\case\RoadFlow\Data.Interface\obj\Debug\Data.Interface.pdb
